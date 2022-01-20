@@ -109,6 +109,6 @@ public class Main {
         stack.pop();
         stack.displayStack();
         System.out.println();
-        
+
     }
 }
